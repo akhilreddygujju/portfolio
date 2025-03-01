@@ -1,5 +1,5 @@
-# Akhil Reddy Gujju
-![Akhil Reddy Gujju](R5C_6779.jpg)  
+# Gradtuate Electrical Engineer
+
 
 ## About Me
 

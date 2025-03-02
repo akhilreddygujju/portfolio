@@ -1,5 +1,4 @@
-# Gradtuate Electrical Engineer
-
+# Graduate Electrical Engineer
 
 ## About Me
 
@@ -15,15 +14,15 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 
 ### **Technical Skills**
 
-| Category               | Skills                                                              |
+| Category              | Skills                                                               |
 | ---------------------- | ------------------------------------------------------------------- |
-| HDL Programming        | Verilog, SystemVerilog                                              |
+| HDL Programming    | Verilog, SystemVerilog                                           |
 | Electrical & Power Sys | Power System Analysis, Transformers, Electrical Wiring, MPPT Design |
-| Design & Simulation    | AutoCAD, MATLAB Simulink, LTSpice, Cadence Tools, Magic VLSI, NGSpice |
-| Programming            | Python, C, Socket Programming                                        |
-| Project Documentation  | Technical Diagramming                                                |
-| RTL Verification       | Cadence Xcelium                                                     |
-| Power Electronics      | MPPT Design, Solar Array Simulation                                 |
+| Design & Simulation   | AutoCAD, MATLAB Simulink, LTSpice, Cadence Tools, Magic VLSI, NGSpice |
+| Programming       | Python, C, Socket Programming                             |
+| Project Documentation | Technical Diagramming                                              |
+| RTL Verification      | Cadence Xcelium                                                    |
+| Power Electronics     | MPPT Design, Solar Array Simulation                                |
 
 ### **Certifications**
 
@@ -36,8 +35,17 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 
 ### **Baugh-Wooley Multiplier (MAGIC & SPICE) - Fall 2024**
 
-- Designed a **2-bit signed multiplier** using **hierarchical VLSI design** in MAGIC.
-- Verified functionality with SPICE simulations at a **0.24 GHz clock frequency**.
+- Designed and simulated a **2-bit Baugh-Wooley signed multiplier** using **hierarchical VLSI design** in MAGIC.
+- Implemented basic cells (Full Adder, NAND, AND) and complex cells (CSA-W, CSA-G).
+- Verified functionality with SPICE simulations, demonstrating correct operation for various input combinations.
+- Achieved a **0.24 GHz maximum clock frequency** through critical path analysis.
+- Ensured **DRC compliance** and extracted SPICE-compatible netlists.
+- **Key Results:**
+    - Simulation Cases: 0 x 0 = 0000, 1 x 1 = 0001, 1 x -1 = 0011 (-1 in decimal), -2 x -1 = 0010 (2 in decimal).
+    - Maximum Clock Frequency: 0.24 GHz.
+- **Tools:** MAGIC VLSI, NGSpice.
+- **GitHub Repository:** [akhilreddygujju/baughwooley](https://github.com/akhilreddygujju/baughwooley)
+- **Deployed Site:** [akhilreddygujju.github.io/baughwooley/](https://akhilreddygujju.github.io/baughwooley/)
 
 ### **1MW 1500V Solar Array Design & Simulation (MATLAB) - Spring 2024**
 

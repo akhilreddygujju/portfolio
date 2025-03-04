@@ -10,15 +10,13 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 
 ---
 
-## Education
+### **Education**
 
-* **University at Albany, State University of New York** | Albany, NY | *Expected May 2025*
-    * Master of Science in Electrical and Computer Engineering | GPA: 3.73/4
-* **Andhra University, India (Anil Neerukonda Institute of Technology and Sciences)** | India | 2023
-    * Bachelor of Technology in Electrical and Electronics Engineering | GPA 8.91/10
-* **Government Polytechnic Visakhapatnam, India (State Board of Technical Education & Training)** | India | 2020
-    * Diploma in Electrical and Electronics Engineering | Percentage: 89%
-
+| Degree/Diploma                                      | Institution                                                                      | Location | Year/Expected Year | GPA/Percentage |
+|-------------------------------------------------------|----------------------------------------------------------------------------------|----------|--------------------|----------------|
+| Master of Science in Electrical and Computer Engineering | University at Albany, State University of New York                                | Albany, NY | Expected May 2025  | 3.73/4         |
+| Bachelor of Technology in Electrical and Electronics Engineering | Andhra University, India (Anil Neerukonda Institute of Technology and Sciences) | India    | 2023               | 8.91/10        |
+| Diploma in Electrical and Electronics Engineering     | Government Polytechnic Visakhapatnam, India (State Board of Technical Education & Training) | India    | 2020               | 89%            |
 
 
 ## Skills & Expertise

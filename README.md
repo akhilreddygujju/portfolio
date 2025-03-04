@@ -11,9 +11,9 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 ---
 ## Education
 
-- Master of Science in Electrical and Computer Engineering | University at Albany, State University of New York (_Expected May 2025_)
-- Bachelor of Technology in Electrical and Electronics Engineering | Andhra University, India (Anil Neerukonda Institute of Technology and Sciences) (_2020-2023_)
-- Diploma in Electrical and Electronics Engineering | Government Polytechnic Visakhapatnam, India (State Board of Technical Education & Training) (_2020_)
+- M.S., Electrical and Computer Engineering | University at Albany, State University of New York (_Expected May 2025_)
+- B.Tech., Electrical and Electronics Engineering | Andhra University, India (Anil Neerukonda Institute of Technology and Sciences) (_2020-2023_)
+- Diploma., Electrical and Electronics Engineering | Government Polytechnic Visakhapatnam, India (State Board of Technical Education & Training) (_2020_)
 ## Skills & Expertise
 
 ### **Technical Skills**

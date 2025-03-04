@@ -54,8 +54,14 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 
 ### **Multiply-and-Accumulate (MAC) Unit & 4x4 Systolic Array (Verilog) - Spring 2024**
 
-- Implemented **4x4 matrix multiplication** using Verilog, inspired by **Google TPUs Toy Version**.
-- Validated functionality using **Cadence Xcelium**.
+- Designed and implemented a **4x4 Systolic Array** for matrix multiplication in Verilog, drawing inspiration from the architectural principles of Google's Tensor Processing Units (TPUs) Toy Version.
+- Developed a modular **Multiply-and-Accumulate (MAC) Unit** as the fundamental processing element within the systolic array, enabling efficient matrix operations.
+- Conducted comprehensive functional verification using **Cadence Xcelium**, confirming the array's ability to accurately perform 4x4 matrix multiplications.
+- Optimized the Verilog design to achieve a maximum clock frequency of **[Insert achieved clock frequency here]** through careful critical path analysis and timing closure techniques.
+- Created detailed testbenches to rigorously validate the systolic array's performance across a diverse range of 4x4 input matrices
+- **Tools:** Verilog, Cadence Xcelium.
+- **GitHub Repository:** [akhilreddygujju/systolic-array](https://github.com/akhilreddygujju/systolic-array)
+- **Deployed Site:** [akhilreddygujju.github.io/systolic-array/](https://akhilreddygujju.github.io/systolic-array/)
 
 ### **Instrumentation of a Three-Phase Transformer - Spring 2024**
 

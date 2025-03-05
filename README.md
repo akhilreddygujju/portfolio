@@ -81,10 +81,21 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 - **GitHub Repository:** [akhilreddygujju/systolic-array](https://github.com/akhilreddygujju/systolic-array)
 - **Deployed Site:** [akhilreddygujju.github.io/systolic-array/](https://akhilreddygujju.github.io/systolic-array/)
 
-### **Instrumentation of a Three-Phase Transformer - Spring 2024**
+## **Instrumentation of a Three-Phase Transformer - Spring 2024**
 
-- Developed a monitoring system using **CTs & PTs** for voltage, current, power, and frequency measurement.
-- Applied design to a **10MVA, 66kV/13.8kV transformer**.
+- Designed the instrumentation for a 10MVA 66kV/13.8kV three-phase power transformer to monitor its input and output voltage, current, frequency, and power.
+- Selected appropriate ratings for Current Transformers (CTs) and Potential Transformers (PTs) to scale down high voltage and current levels.
+- Calculated burden resistor values for interfacing with monitoring circuitry.
+- Developed a block diagram of analog and digital circuitry for measurement and monitoring.
+- Identified part numbers from component manufacturers for selected instrument transformer ratings.
+- **Key Results:**
+    - Selected CTs: Primary (100/5A, GE 2DARL-101), Secondary (500/5A, GE Model 500).
+    - Selected PTs: Primary (66kV/115V, JDCF JDCF-72.5W3), Secondary (13.8kV/110V, GE PTG5-1-110).
+    - Calculated burden resistor values: 3 ohms (CTs), 73.52 ohms (Primary PT), 11.50 ohms (Secondary PT).
+    - Developed block diagrams for voltage, current, power, and frequency measurement.
+- **Tools:** Calculations, Datasheet Analysis.
+- **GitHub Repository:** [akhilreddygujju/transformer-instrumentation](https://github.com/akhilreddygujju/transformer-instrumentation)
+- **Deployed Site:** [akhilreddygujju.github.io/transformer-instrumentation/](https://akhilreddygujju.github.io/transformer-instrumentation/)
 
 ### **Cache Implementation & Reliable Data Transfer - Fall 2023**
 

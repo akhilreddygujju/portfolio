@@ -51,10 +51,24 @@ I am actively seeking **full-time opportunities** in **Electrical Engineering, R
 - **GitHub Repository:** [akhilreddygujju/baughwooley](https://github.com/akhilreddygujju/baughwooley)
 - **Deployed Site:** [akhilreddygujju.github.io/baughwooley/](https://akhilreddygujju.github.io/baughwooley/)
 
-### **1MW 1500V Solar Array Design & Simulation (MATLAB) - Spring 2024**
+### **1MW 1500V Solar Array Design and Simulation - Spring 2024**
 
-- Designed and simulated a **1MW solar array** tailored to Albany’s temperature conditions.
-- Analyzed **MPPT configurations** under shading conditions, optimizing system performance.
+- Designed and simulated a **1 MW solar array** for Albany, NY, adhering to a **1500V maximum DC voltage** constraint.
+- Developed a **PV panel circuit model** using the "NES144/525-530 W F 35mm MBB Half-cell Mono solar cell" datasheet.
+- Conducted **temperature analysis** using Albany, NY weather data to accurately model PV panel behavior.
+- Performed **shading simulations** under uniform and non-uniform conditions, analyzing the impact on I-V and P-V characteristics.
+- Compared **Central MPPT, MPPT per string, and MPPT per module** techniques under various shading scenarios.
+- Generated **detailed I-V and P-V characteristic plots** and documented array design calculations.
+- **Key Results:**
+    - Calculated Voc at -8°C: 53.77V.
+    - Calculated VMPP at 28°C: 48.89V.
+    - Calculated IMPP at 28°C: 13.70A.
+    - Maximum Power at 28°C: 670W.
+    - Determined array design: 1493 panels, 27 series modules, 56 parallel strings.
+    - Analyzed and compared MPPT performance under various shading conditions.
+- **Tools:** MATLAB, Datasheet Analysis.
+- **GitHub Repository:** [akhilreddygujju/pv](https://github.com/akhilreddygujju/pv)
+- **Deployed Site:** [akhilreddygujju.github.io/pv/](https://akhilreddygujju.github.io/pv/)
 
 ### **Multiply-and-Accumulate (MAC) Unit & 4x4 Systolic Array (Verilog) - Spring 2024**
 
